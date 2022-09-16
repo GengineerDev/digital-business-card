@@ -1,3 +1,26 @@
+.info {
+  text-align: center;
+}
+
+.about {
+  margin: 3.2rem 3.5rem;
+  line-height: 1.5rem;
+}
+
+.title {
+  margin-top: 2.5rem;
+  margin-bottom: 0.5rem;
+}
+
+h2 {
+  color: #F5F5F5;
+  font-size: 1.6rem;
+}
+
+.about p {
+  color: #DCDCDC;
+}
+
 .photo {
   width: 31.7rem;
   height: 31.7rem;
@@ -15,8 +38,8 @@
 
 .card {
   background: #1A1B21;
-  text-align: center;
   padding-top: 0;
+  max-width: 31.7rem;
 }
 
 .position {
@@ -25,8 +48,11 @@
   color: #F3BF99;
 }
 
-.website {
+p {
   font-size: 1rem;
+}
+
+.website {
   padding-bottom: 1.6rem;
   color: white;
 }
@@ -43,4 +69,8 @@ button {
 
 i {
   margin-right: 0.9rem;
+}
+
+.footer {
+  background: #161619;
 }
