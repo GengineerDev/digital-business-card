@@ -71,6 +71,14 @@ i {
   margin-right: 0.9rem;
 }
 
-.footer {
+footer {
   background: #161619;
+  padding-block: 1.95rem;
+  display: flex;
+  justify-content: center;
+  gap: 2.4rem;
+}
+
+footer > img {
+  height: 2.5rem;
 }
