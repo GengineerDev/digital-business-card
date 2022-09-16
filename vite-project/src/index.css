@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap');
+
+*, ::before, ::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  
+  /*
+  border: 1px solid black; 
+  */
+
+}
+
+html {
+  font-size: 62.5%;
+  font-family: Inter, Arial, Helvetica, sans-serif;
+}
+
+body {
+  width: 100vw;
+  height: 100vh;
+  background: #23252C;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.button-text {
+  word-spacing: 4rem;
+}
